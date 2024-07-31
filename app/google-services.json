@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "610660979345",
+    "firebase_url": "https://manager-a7e4a-default-rtdb.firebaseio.com",
+    "project_id": "manager-a7e4a",
+    "storage_bucket": "manager-a7e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610660979345:android:a53d0d95f097210816e530",
+        "android_client_info": {
+          "package_name": "com.example.examsonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0GLJcpFZ3oledUd6CwqDN_jtEKlKZjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
