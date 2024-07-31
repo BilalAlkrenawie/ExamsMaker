@@ -72,7 +72,7 @@ public class Signup extends AppCompatActivity {
                             finish();
                         });
                     } else {
-                        Toast.makeText(Signup.this, "Operation Failed", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(Signup.this, "All inputs are required", Toast.LENGTH_SHORT).show();
                         progressDialog.dismiss();
                     }
                 });
